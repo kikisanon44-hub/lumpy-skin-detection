@@ -5,3 +5,4 @@ pandas
 pillow
 tensorflow-cpu==2.17.0
 scikit-image
+flask-sqlalchemy
